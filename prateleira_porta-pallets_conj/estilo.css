@@ -1,0 +1,34 @@
+.btn-link {
+  font-weight: normal;
+  color: #337ab7;
+  border-radius: 0;
+}
+
+  
+
+
+  html, body { margin: 0; padding: 0; width: 100%; height: 100%; overflow-x: hidden; position: absolute; 
+    
+      height: 100vh;
+      font-size: 30px;
+      
+
+  }
+    
+*{
+  margin:0; padding:0; border:0;
+}
+.conteudo{
+  background: url(ferro3.jpg) top center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+}
+
+
+
+
+
+
+  
