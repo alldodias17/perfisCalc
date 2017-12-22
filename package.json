@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap": "3.3.7",
-    "infinite-scroll": "^3.0.2"
+    "infinite-scroll": "^3.0.2",
+    "jquery": "^3.2.1"
   }
 }
